@@ -1,6 +1,6 @@
 # 📊 Dashboard de Performance de Vendas - Power BI
 
-![Screenshot do Dashboard](<img width="1427" height="817" alt="Dashboard Business Sales2" src="https://github.com/user-attachments/assets/b28ce868-5647-43b2-8462-4759e32bf6d3" />
+![Screenshot do Dashboard](<https://github.com/Jonzzz/analise-vendas-powerbi/blob/main/Dashboard%20Business%20Sales2.png>
 )
 
 ## 🎯 Objetivo do Projeto
